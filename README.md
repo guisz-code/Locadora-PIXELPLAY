@@ -20,7 +20,6 @@ O projeto simula o funcionamento de uma locadora, permitindo cadastrar e gerenci
 
 * C#
 * .NET
-* Programação Orientada a Objetos
 * CRUD
 
 ## 🎓 Contexto
@@ -33,7 +32,7 @@ O projeto foi proposto pelo professor e desenvolvido como uma aplicação de ger
 
 Praticar conceitos fundamentais de programação, incluindo:
 
-* Classes e objetos
+
 * Métodos
 * Encapsulamento
 * Listas e coleções
